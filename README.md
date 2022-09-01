@@ -5,7 +5,7 @@
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. I'll be visualizing her campaign outcomes based on their launch dates and their funding goals. With a report attached based on my analysis and visualization i'll create, she'll have a better understanding of her fundraising projections.
 ### Purpose
 
-Louise is looking forward to your analysis, but she would benefit from additional visualization of the data so that she can see the outcomes of all the categories. By creating summary tables, charts, and graphs, we can help Louise find the best path towards success.
+Louise is looking forward to our analysis, but she would benefit from additional visualization of the data so that she can see the outcomes of all the categories. By creating summary tables, charts, and graphs, we can help Louise find the best path towards success.
 ## Analysis and Challenges
 
 By applying filters and using Pivot tables, we've been able to get a clearer picture on the outcomes of Louise's Kickstarter campaign.
