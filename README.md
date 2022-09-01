@@ -18,7 +18,7 @@ Analyzing our Pivot Table, we can conclude that the most successful years of the
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/47859209/187823214-b5132297-71a2-47a2-a7bc-c080d873b8d7.png)
 
-By analyzing our outcomes based on goals, it is evident that there were no plays that were cancelled from a goal range of less than 1000 to 50000 or more. 100% of plays failed ranging from 45000 to 49999, with the second highest number of plays that failed ranging from 50000 or more at 87.50%, and in third place for percentage of failed plays ranging from 25000 to 29999.
+By analyzing our outcomes based on goals, it is evident that there were no plays that were cancelled from a goal range of less than 1000 to 50000 or more. 100% of plays failed ranging from 45000 to 49999, with the second highest number of plays that failed ranging from 50000 or more at 87.50%, and in third place for percentage of 80% of failed plays ranging from 25000 to 29999.
 ### Challenges and Difficulties Encountered
 
 Upon receipt of the initial worksheet, some conditional formatting and filters had to be completed and selected as preferences to enable us scrum the dataset for more relevant information. We also had to create graphs and tables to help understand the trends of her outcomes. We also had to use descriptive statistics to understand the average goal and identify outliers based on her targets.
