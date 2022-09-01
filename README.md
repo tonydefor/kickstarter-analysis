@@ -8,7 +8,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 Louise is looking forward to your analysis, but she would benefit from additional visualization of the data so that she can see the outcomes of all the categories. By creating summary tables, charts, and graphs, we can help Louise find the best path towards success.
 ## Analysis and Challenges
 
-By applying filters and using Pivot tables, we've been able to get a clearer picture on the outcomes of the fundraising outcomes.
+By applying filters and using Pivot tables, we've been able to get a clearer picture on the outcomes of Louise's Kickstarter campaign.
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/47859209/187823243-da0765d9-aa6f-4b2d-a36e-cb823d4630d4.png)
