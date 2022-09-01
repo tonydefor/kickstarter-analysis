@@ -27,7 +27,7 @@ Upon receipt of the initial worksheet, some conditional formatting and filters h
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-By extracting the information from our Kickstarter workbook, we've been able to narrow down our search for outcomes, realizing that the best months for the campaign we're in May, June and February. We can also conclude that the months that had the most failed campaigns, were in January, June and October. The Kickstarter campaign was also a success overall with focus primarily in the US and Great Britain market.
+By extracting the information from our Kickstarter workbook, we've been able to narrow down our search for outcomes, realizing that the best months for the campaign were in May, June and February. We can also conclude that the months that had the most failed campaigns, were in January, June and October. The Kickstarter campaign was also a success overall with focus primarily in the US and Great Britain market.
 
 - What can you conclude about the Outcomes based on Goals?
 
