@@ -31,7 +31,7 @@ By extracting the information from our Kickstarter workbook, we've been able to 
 
 - What can you conclude about the Outcomes based on Goals?
 
-By analyzing our outcomes based on goals, it is evident that there were no plays that were cancelled from a goal range of less than 1000 t0 50000 or more. 100% of plays failed ranging from 45000 to 49999, with the second highest number of plays that failed ranging from 50000 or more at 87.50%, and in third place for percentage of failed plays ranging from 25000 to 29999.
+By analyzing our outcomes based on goals, it is evident that there were no plays that were cancelled from a goal range of less than 1000 t0 50000 or more. 100% of plays failed ranging from 45000 to 49999, with the second highest number of plays that failed ranging from 50000 or more at 87.50%, and in third place for percentage of 80% failed plays ranging from 25000 to 29999.
 
 - What are some limitations of this dataset?
 
