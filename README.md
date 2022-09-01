@@ -13,7 +13,7 @@ By applying filters and using Pivot tables, we've been able to get a clearer pic
 ### Analysis of Outcomes Based on Launch Date
 ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/47859209/187823243-da0765d9-aa6f-4b2d-a36e-cb823d4630d4.png)
 
-Analyzing our Pivot Table, we can conclude that the most successful years of the campaign are in 2014, 2015 and 2016 were the most impactful and had the most success. It can also be concluded that the effectiveness of the campaign started to dwindle in 2017.
+Analyzing our Pivot Table, we can conclude that the most successful years of the campaign are in 2014, 2015 and 2016 were the most impactful and had the most success. It can also be concluded that the effectiveness of the campaign started to dwindle in 2017. May, June and February were also the most successful with respect to the campaign.
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/47859209/187823214-b5132297-71a2-47a2-a7bc-c080d873b8d7.png)
