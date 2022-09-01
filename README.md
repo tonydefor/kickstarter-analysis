@@ -34,5 +34,7 @@ By extracting the information from our Kickstarter workbook, we've been able to 
 By analyzing our outcomes based on goals, it is evident that there were no plays that were cancelled from a goal range of less than 1000 t0 50000 or more. 100% of plays failed ranging from 45000 to 49999, with the second highest number of plays that failed ranging from 50000 or more at 87.50%, and in third place for percentage of failed plays ranging from 25000 to 29999.
 
 - What are some limitations of this dataset?
+The dataset had to be modified several times to obtain a clearer overall picture of the relevant information was looking for. There were also some challenges that had to be fixed/corrected with an IFERROR command to keep our data concise and informative.
 
 - What are some other possible tables and/or graphs that we could create?
+Some other tables and graphs we could possibly create to have a better understanding and perspective on the goals and outcomes of our plays are Stacked Bar charts and pie chart to assist with the realization of successes and failures of Louise's play.
